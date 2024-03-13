@@ -15,7 +15,7 @@ You should create a Python virtual environment. After you are ready, run
 ## Protein Sequences Generation
 
 ### ESM2
-If you want to use the pretrained ESM2 model developed by Meta to generate <em>de novo<em> protein sequences, run
+If you want to use the pretrained ESM2 model developed by Meta to generate de novo protein sequences, run
 
 `esm/generation_original.py`
 

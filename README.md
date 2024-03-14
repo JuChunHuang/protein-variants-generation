@@ -51,7 +51,7 @@ Therefore, to reformat the dataset using the bacterial luciferase dataset, run
 
 `protgpt2/preprocessing.py`
 
-If you want to use the pretrained ProtGPT2 to generate <em>de novo<em> protein sequences, run
+If you want to use the pretrained ProtGPT2 to generate de novo protein sequences, run
 
 `protgpt2/generation_original.py`
 
